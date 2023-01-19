@@ -40,7 +40,7 @@ export default function About() {
           <Project
             src="/images/kiln.png"
             heading="Kiln Me Softly"
-            description="An e-commerce site to selling pottery and manage inventory. The site allows users to shop and allows administrators to manage user and product data. Completed as part of a group project during the Grace Hopper program.
+            description="An e-commerce site to sell pottery and manage inventory. The site allows users to shop and allows administrators to manage user and product data. Completed as part of a group project during the Grace Hopper program.
             I focused on developing the database models and associations, the checkout flow, search and filter functionality, and front-end design."
             href="https://www.youtube.com/watch?v=HSwKpd8c-ik"
           />
