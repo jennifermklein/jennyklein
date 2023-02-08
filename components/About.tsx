@@ -4,9 +4,9 @@ export default function About() {
   return (
     <Flex direction="column" gap="5">
       <Text>
-        Jenny Klein is a full stack software engineer living in Brooklyn, New
-        York. Prior to becoming a software engineer, she practiced law for 10
-        years, primarily at{" "}
+        I am a full stack software engineer living in Brooklyn, New York. Prior
+        to becoming a software engineer, I practiced law for 10 years, primarily
+        at{" "}
         <Text
           as="a"
           color="#731C62"
@@ -15,7 +15,7 @@ export default function About() {
         >
           Kramer Levin
         </Text>
-        . Jenny was previously an engineer at{" "}
+        . My engineering career began at at{" "}
         <Text
           as="a"
           color="#731C62"
@@ -24,7 +24,7 @@ export default function About() {
         >
           Up&Up
         </Text>
-        , and she currently works at{" "}
+        , and I currently work at{" "}
         <Text
           as="a"
           color="#731C62"

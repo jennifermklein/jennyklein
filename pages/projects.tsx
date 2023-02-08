@@ -28,6 +28,7 @@ export default function About() {
             Combining multiple real time MTA data feeds into a single map view,
             you can quickly find your nearest station and then drill down to a
             single train, direction, and relevant outages."
+            stack="Node.js, Apollo, GraphQL, Expo, React Native, Redux"
             href="https://www.youtube.com/watch?v=su92iSFLy_o&list=LL&index=6"
           />
           <Project
@@ -35,6 +36,7 @@ export default function About() {
             heading="Magic Spell"
             description="I built Magic Spell for my 5 year old daughter who was learning to read. The app allows kids to play around with different letter combinations
             by dragging and dropping the letters. Built using Google’s Cloud Text-To-Speech API to implement realistic sounding synthesized text and React-Beautiful-DND."
+            stack="Node.js, Express, React, CSS, React-Beautiful-DND, Google Cloud Text-To-Speech API"
             href="https://www.youtube.com/watch?v=x3W7vZzE3CY"
           />
           <Project
@@ -42,6 +44,7 @@ export default function About() {
             heading="Kiln Me Softly"
             description="An e-commerce site to sell pottery and manage inventory. The site allows users to shop and allows administrators to manage user and product data. Completed as part of a group project during the Grace Hopper program.
             I focused on developing the database models and associations, the checkout flow, search and filter functionality, and front-end design."
+            stack="Node.js, Express, Axios, Sequelize, PostgreSQL, React, Redux, HTML/CSS"
             href="https://www.youtube.com/watch?v=HSwKpd8c-ik"
           />
           <Project
@@ -64,6 +67,7 @@ export default function About() {
             description="Built as a final project for Harvard's CS50 course,
             Word by Word is a collaborative storytelling app inspired by an improv game in which a group of people
             take turns adding one word at a time to a story. The story develops unpredictably through the creativity of the entire group."
+            stack="Python, Flask, PostgreSQL"
             href="https://www.youtube.com/watch?v=-nwS44wn3hQ"
           />
           <Project
