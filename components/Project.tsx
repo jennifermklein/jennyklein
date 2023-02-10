@@ -50,7 +50,7 @@ export default function Project({
               <Text as={"span"} fontWeight={"bold"}>
                 Stack:{" "}
               </Text>
-              <Text as={"span"}>{stack}test</Text>
+              <Text as={"span"}>{stack}</Text>
             </Box>
           ) : null}
         </CardBody>
