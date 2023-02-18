@@ -21,6 +21,17 @@ export default function About() {
             Projects
           </Heading>
           <Project
+            src="/images/eeniemeenie.png"
+            heading="Eenie Meenie"
+            description="Eenie Meenie helps expecting parents choose a name for their baby. 
+            Users provide their preferences - such as the year in which names were common and whether
+            they want popular or obscure names - and are presented with two names at a time to choose between.
+            The app creates a pairwise ranking for the user, and allows them to compare their favorite names
+            with their partner's favorites."
+            stack="Django, Python, React, PostgreSQL"
+            href="https://www.youtube.com/watch?v=1qXNG8FlgTU"
+          />
+          <Project
             src="/images/fml.png"
             heading="FindMyLine"
             description="FindMyLine is a fast, easy way to find the information you need on
@@ -50,9 +61,9 @@ export default function About() {
           <Project
             src="/images/stalactite.png"
             heading="Stalactite"
-            description="A fun music visualization app allowing users to play piano with their computer keyboard and see a trippy visualization corresponding to the notes.
-            Built using React along with tone.js for the music and paper.js for the visualization."
+            description="A fun music visualization app allowing users to play piano with their computer keyboard and see a trippy visualization corresponding to the notes."
             href="https://www.youtube.com/watch?v=x0kH1khjk9w"
+            stack="Node.js, Express, React, Tone.js, Paper.js"
           />
           <Project
             src="/images/hamilton.png"
